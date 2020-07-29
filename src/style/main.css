@@ -1,0 +1,41 @@
+body {
+    background-color: #1a1a1a;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #f8f9fa;
+    user-select:none;
+}
+
+p{
+    user-select:none;
+}
+
+main article {
+    margin-top: 50px;
+}
+
+main article:first-child {
+    margin-top: 100px;
+}
+
+movie-list {
+    display: block;
+}
+movie-item {
+    display: block;
+}
+
+.btn-dark {
+    background-color: #1a1a1a;
+}
+
+.card {
+    background-color: rgb(61, 62, 65);
+}
+
+
